@@ -1,5 +1,5 @@
 ==About==
-OWASP Bricks - 2.2 Tuivai
+ DANITA WUZ HERE
 ==Installation==
 
 Copy this folder into the www directory.
